@@ -1,1 +1,3 @@
-# fastapi-chat-app
+# FastAPI Based Chat Application
+
+## IN DEVELOPMENT
